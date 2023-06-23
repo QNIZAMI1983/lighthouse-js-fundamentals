@@ -66,3 +66,10 @@ if (!raining) {
 }
 */
 
+var x = 1;
+
+while (x <= 1000) { 
+  console.log(x + " taak");
+  x = x + 1;
+}
+
